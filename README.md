@@ -1,4 +1,4 @@
 # Dyback-Machine
-Wayback Machine for APIs, and another dymanic content
+Wayback Machine for APIs, and other dymanic content
 <br>
 COMING SOON!
