@@ -1,3 +1,4 @@
 # Dyback-Machine
-Dymanic version of Wayback Machine
+Wayback Machine for APIs, and another dymanic content
+<br>
 COMING SOON!
